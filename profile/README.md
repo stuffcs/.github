@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm Andrew, 16 y.o developer.
+**I'm Andrew, 16 y.o developer.**
 
 Write on:
 
