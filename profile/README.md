@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
- <img src="https://gifer.com/ru/M72a
+ <img src="https://gifer.com/ru/M72a.gif
 "/>       
 
 **I'm Andrew, 16 y.o developer.**
