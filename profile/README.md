@@ -1,10 +1,10 @@
-## Here some of my projects :)
+## 👋 Hello there!
 
-Hello! I'm Andrew, 16 y.o developer.
+I'm Andrew, 16 y.o developer.
 
 Write on:
 
-• Python (TG Bots, AI Predictions (Scikit-learn), ML)
+• Python (TG Bots, AI Predictions (Scikit-learn), ML, Parsers)
 
 • C++ (OpenCV, OpenGL, Drogon, Sound/Maths)
 
@@ -13,6 +13,8 @@ Write on:
 • Rust (Simple apps, TG Bots)
 
 • x86asm (low-level)
+
+
 
 
 
