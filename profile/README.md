@@ -1,5 +1,7 @@
 ## 👋 Hello there!
 
+![hippo](https://gifer.com/ru/M72a)
+
 **I'm Andrew, 16 y.o developer.**
 
 Write on:
