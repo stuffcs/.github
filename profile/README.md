@@ -2,7 +2,7 @@
 
 ![](https://github.com/stuffcs/.github/blob/main/profile/M72a.gif) 
 
-**I'm Andrew, 16 y.o developer.**
+**I'm Andrew, 0xf y.o developer.**
 
 Write on:
 
