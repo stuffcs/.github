@@ -16,6 +16,8 @@ Write on:
 
 • x86asm (low-level)
 
+💺
+
 
 
 
