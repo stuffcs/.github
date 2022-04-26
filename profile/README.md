@@ -16,6 +16,10 @@ Write on:
 
 • x86asm (low-level)
 
+• Ruby on Rails (backend/highload)
+
+• C (low-level)
+
 💺
 
 
